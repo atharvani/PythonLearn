@@ -44,7 +44,7 @@ import ssl
 
 api_key = False
 # If you have a Google Places API key, enter it here
-#api_key = 'AIzaSyBaCUiv5OEmX0bFW6yyjnIo9dvNitJQV2Y'
+#api_key = 'A.............................o9dvNitJQV2Y'
 # https://developers.google.com/maps/documentation/geocoding/intro
 
 if api_key is False:
