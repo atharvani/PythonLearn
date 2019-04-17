@@ -1,2 +1,2 @@
 # PythonLearn
-Python Learning exercise
+Python Learning exercise using Python3
